@@ -39,7 +39,7 @@ This Java application collects user data to generate a CV (Curriculum Vitae) in 
 The program prompts the user for the following information:
 
 - **Name**: Full name (e.g., Jana Ozolniece)
-- **Address**: Home address (e.g., Brīvības iela 24-7, Talsi)
+- **Address**: Home address (e.g., Brīvības iela 29-4, Talsi)
 - **Phone Number**: Contact number
 - **Email**: Valid email address
 - **Job Title/Field**: Position applied for
